@@ -1,0 +1,1 @@
+<img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/boxplot_1541005883769.jpg" alt="boxplot" width="auto" height="auto">
