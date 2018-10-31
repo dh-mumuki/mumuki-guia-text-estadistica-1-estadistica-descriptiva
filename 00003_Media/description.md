@@ -3,3 +3,7 @@ La media o promedio se calcula haciendo la suma de todos los valores, divido la 
 <br>
 x: los valores a promediar<br>
 n: cantidad total de valores
+
+<br>
+Por, ejemplo para la muestra 8,5,-1 el cáculo de la media es el siguiente:<br>
+<img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/media_ejemplo_1541002469397.png" alt="media_ejemplo" width="auto" height="auto" display="block" margin-left="auto" margin-right="auto">
