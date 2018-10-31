@@ -7,3 +7,7 @@ n: cantidad total de valores
 <br>
 Por, ejemplo para la muestra 8,5,-1 el cáculo de la media es el siguiente:<br>
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/media_ejemplo_1541002469397.png" alt="media_ejemplo" width="auto" height="auto" display="block" margin-left="auto" margin-right="auto">
+<br>
+
+> Recordemos que la media solo se puede aplicar a variables cuantitaivas. Resulta imposible hacer en caulitativas, imaginemos sumar provincias...
+<br>(Chaco + Chaco) / 2 = ???
