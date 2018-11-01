@@ -9,5 +9,3 @@ Veamos donde se ubican la media, la moda y la mediana en cada caso de asimetría
 <br>
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/asimetrica_medidas_1541099279941.gif" alt="asimetrica_medidas_1541099279941.gif" width="auto" height="auto">
 
-<br>
-La moda siempre coincide con el pico
