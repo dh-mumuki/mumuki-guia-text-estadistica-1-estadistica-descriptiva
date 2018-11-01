@@ -4,6 +4,8 @@ Un histograma es una representación gráfica de una variable en forma de barras
 <br>
 _En este histograma se puede ver la frecuencia de ciertos intervalos de peso de arcilla._
 
+> Recuerden la linea roja que acompaña las barras, nos va a servir pronto.
+
 <br>
 Suele resultar útil recorrer el paso a paso del armado de un histrograma, para comprenderlo. Entonces:
 <br>
