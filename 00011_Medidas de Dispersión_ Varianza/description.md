@@ -8,4 +8,5 @@ Esta es su expresión matemática:<br>
 
 Su unidad de medida corresponde al cuadrado de la unidad de medida de la variable: por ejemplo, si la variable mide una distancia en metros, la varianza se expresa en metros al cuadrado. La varianza tiene como valor mínimo 0.<br>
 
-Hay que tener en cuenta que la varianza puede verse muy influida por los valores atípicos.
+Hay que tener en cuenta que la varianza puede verse muy influida por valores extremos.
+<br>
