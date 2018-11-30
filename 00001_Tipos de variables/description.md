@@ -13,3 +13,10 @@ Es fundaemntal distinguir los tipos de variables que existen, ya que tienen gran
 * Categóricas: Se refieren a características o  tributos que presenta una  observación. Por ejemplo, género  (masculino/femenino) o el listado de las provincias argentinas.
 
 * Ordinales: Se refieren a una secuencia  ordenada. Por ejemplo, rangos etarios: 0-14, 15-29, 30-59, 60+
+
+<br>
+:memo: **Qué tipo de variables son?**<br>
+1. Rango horario
+2. Nombre
+3. $45
+4. 55.78

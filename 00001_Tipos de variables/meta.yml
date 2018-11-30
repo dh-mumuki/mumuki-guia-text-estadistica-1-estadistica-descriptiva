@@ -1,9 +1,17 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: multiple_choice
+type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
+choices:
+- value: Categórica, Categórica, Ordinal, Discreta
+  checked: false
+- value: Continua, Ordinal, Discreta,  Discreta
+  checked: false
+- value: Ordinal, Categórica, Continua, Continua
+  checked: true
+- value: Continua, Discreta, Discreta, Continua
+  checked: false
 name: Tipos de variables
