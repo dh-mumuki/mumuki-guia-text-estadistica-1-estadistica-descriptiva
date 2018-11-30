@@ -16,4 +16,4 @@ Tengo una muestra de las alturas de 100 alumnos de una universidad y las ordeno 
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/ejemplo_gr%C3%A1fico_percentil-640x535_1541087498987.png" alt="ejemplo_gráfico_percentil-640x535_1541087498987.png" width="auto" height="auto">
 
 <br>
-> Si recuerdan la **mediana**, que divdía en dos partes iguales a una muestra, los invito a pensar a que percentil corresponde.
+> Recuerdan la **mediana**? Divdía en dos partes iguales una muestra. A que percentil corresponde?

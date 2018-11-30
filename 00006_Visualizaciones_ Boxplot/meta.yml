@@ -1,9 +1,17 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: multiple_choice
+type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
+choices:
+- value: '2'
+  checked: false
+- value: '50'
+  checked: true
+- value: '0.5'
+  checked: false
+- value: '100'
+  checked: false
 name: 'Visualizaciones: Boxplot'
