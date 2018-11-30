@@ -1,9 +1,17 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: multiple_choice
+type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
+choices:
+- value: '34.33'
+  checked: false
+- value: '36.33'
+  checked: false
+- value: '35.22'
+  checked: true
+- value: '37.23'
+  checked: false
 name: Media
