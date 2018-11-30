@@ -6,12 +6,12 @@ type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
-- value: '34.33'
-  checked: false
+- value: '38.22'
+  checked: true
 - value: '36.33'
   checked: false
 - value: '35.22'
-  checked: true
+  checked: false
 - value: '37.23'
   checked: false
 name: Media

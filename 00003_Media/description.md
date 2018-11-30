@@ -14,4 +14,4 @@ Por, ejemplo para la muestra [8, 5, -1] el cáculo de la media es el siguiente:<
 
 <br>
 :memo: **Cuánto vale la media de la siguiente muestra?**<br>
-**{4,49,5,2,55,22,64,78,38}**
+**{4,49,5,2,55,22,64,78,38,65}**

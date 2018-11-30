@@ -4,3 +4,6 @@ Para una lista ordenada la mediana se calcula de diferente manera dependidendo d
 
 * **IMPAR**: La mediana es el valor de la posición 5 (la posición del "medio").
 * **PAR**: La mediana es la media de los valores en las dos posiciones centrales
+
+<br> 
+:memo: **Cuánto vale la mediana de esta muestra?**

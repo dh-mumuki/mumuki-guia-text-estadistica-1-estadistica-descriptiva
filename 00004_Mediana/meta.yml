@@ -1,9 +1,17 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: multiple_choice
+type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
+choices:
+- value: '38'
+  checked: false
+- value: '40.5'
+  checked: false
+- value: '42.3'
+  checked: false
+- value: '43.5'
+  checked: true
 name: Mediana
