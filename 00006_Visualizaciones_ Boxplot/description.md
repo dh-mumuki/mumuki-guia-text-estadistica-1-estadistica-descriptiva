@@ -1,19 +1,30 @@
-Suele ser de mucha utilidad representar la información a traves de gráficos, ya que permiten condensar la infromación en una sola visualización, relacionar los conceptos y darle cierta interpretabilidad en algunos casos.
+En estadística, suele ser de mucha utilidad representar la información a través de gráficos, ya que permiten condensar la información en una sola visualización, relacionar los conceptos y darle cierta interpretabilidad en algunos casos.
 
 <br>
 **BOXPLOT**<br>
-El boxplot o diagrama de caja con bigotes nos da una idea de la distribución de la muestra y nos indica los cortes de los cuartiles y la mediana, e incluso permite visualizar casos atípicos.
+El **_boxplot_** o **diagrama de caja con bigotes** nos da una idea de la distribución de los datos y nos indica los cortes de los **cuartiles** y la **mediana**, e incluso permite visualizar **casos atípicos**.
 
 <br>
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/boxplot_1541006118610.jpg" alt="boxplot_1541006118610.jpg" width="auto" height="auto">
 
 <br>
 **Percentiles y Cuartiles**<br>
-El cuartil es un percentil particular. Entonces la pregunta es, qué es un percentil?<br>
-El percentil es una medida de posición que indica, una vez ordenados los datos de menor a mayor, el porcentaje de observaciones de la muestra que se encuentran bajo esa medida.
-Veamosló con un ejemplo simple:<br>
-Tengo una muestra de las alturas de 100 alumnos de una universidad y las ordeno de menor a mayor; el percentil 75 incluye las 75 primeras observaciones, más alla de cuanto valgan.<br>
+El percentil es una medida de posición que indica, una vez ordenados los datos de menor a mayor, el porcentaje de observaciones que se acumulan hasta ese valor. Veámoslo con un ejemplo simple:<br>
+
+Supongamos que tenemos una muestra de las alturas de 100 alumnos y alumnas de una universidad y las ordenamos de menor a mayor; el percentil 75 incluye las 75 primeras observaciones, independientemente de cuál sea su valor.<br>
+
+Si nosotros quisiéramos separar nuestras observaciones en **cuatro grupos de igual tamaño**, podríamos definir tres **puntos de corte: el percentil 25, el percentil 50 y el percentil 75**. Estos puntos de corte, justamente, reciben el nombre de **cuartiles**, y son representados en un **boxplot** por la línea inferior, la línea central y la línea superior de la caja, respectivamente. De esta forma, vemos que la caja representa los valores propios del 50% central de nuestros datos.
+
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/ejemplo_gr%C3%A1fico_percentil-640x535_1541087498987.png" alt="ejemplo_gráfico_percentil-640x535_1541087498987.png" width="auto" height="auto">
 
 <br>
-> Recuerdan la **mediana**? Divdía en dos partes iguales una muestra. A que percentil corresponde?
+> Ya dimos la definición de la mediana, aquel valor que divide en dos partes iguales una muestra. ¿A qué percentil corresponde?
+
+<br>
+**Rango intercuartílico, bigotes y casos atípicos**<br>
+Ya hemos visto que los límites de la caja vienen dados por los valores del primer cuartil (percentil 25) y del tercer cuartil (percentil 75). A la diferencia entre ambos se la llama comúnmente **rango intercuartílico**:<br>
+**RIC = Q3 (75%) - Q1 (25%)**
+<br>
+Los **bigotes** (o **whiskers**, en inglés) son las líneas que se extienden por fuera de la caja. Para definir su largo, debemos **multiplicar al RIC por algún valor** arbitrario, **típicamente** 1,5 (más adelante veremos que este valor tiene estrecha relación con las características propias de la **distribución normal**). Restando y sumando este valor a los valores de los bordes inferior y superior de la caja, respectivamente, obtenemos los límites inferior y superior de nuestro **boxplot**:<br>
+1. Límite inferior = Q1 - 1,5 x RIC
+2. Límite superior = Q3 + 1,5 x RIC
