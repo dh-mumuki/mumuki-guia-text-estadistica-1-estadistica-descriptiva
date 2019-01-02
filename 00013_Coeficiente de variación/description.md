@@ -1,4 +1,0 @@
-El coeficiente de variación (CV) permite comparar la dsipersión de distintas variables. Como dijimos antes, varianza y el desvío comparan las observaciones ocntra la media, por lo tanto depende de ella. Ahora bien, si dividimos el desvío por la media nos estamos independizando de ella. De este modo, podemos comparar varaiables con distintas medias.<br>
-Otra caracaterística relevante del CV es que no tiene unidades, ya que el desvío y la media tienen las mismas unidades, la unidad de la variable, y se cancelan al dividirlos. Esto también nos permite comparar variables que no tienen las mismas unidades.<br>
-Esta es su expresión matemática:<br>
-<img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/cv_1541118105894.JPG" alt="cv_1541118105894.JPG" width="auto" height="auto">
