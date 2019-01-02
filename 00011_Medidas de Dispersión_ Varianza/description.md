@@ -1,4 +1,4 @@
-Son parámetros estadísticos que indican como se alejan los datos respecto de la media. Sirven como indicador de la variabilidad de los datos. Las medidas de dispersión más utilizadas son el rango, el desvío estandar y la varianza.
+Las medidas de dispersión son parámetros estadísticos que indican cuánto se alejan los datos respecto de la media. Sirven como indicadores de la variabilidad de los datos. Las medidas de dispersión más utilizadas son el desvío estándar y la varianza.
 
 **VARIANZA**<br>
 La varianza es una medida de dispersión y se calcula comparando las observaciones contra su media.<br>
@@ -8,5 +8,5 @@ Esta es su expresión matemática:<br>
 
 Su unidad de medida corresponde al cuadrado de la unidad de medida de la variable: por ejemplo, si la variable mide una distancia en metros, la varianza se expresa en metros al cuadrado. La varianza tiene como valor mínimo 0.<br>
 
-Hay que tener en cuenta que la varianza puede verse muy influida por valores extremos.
+
 <br>
