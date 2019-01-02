@@ -1,3 +1,3 @@
-El desvío estándar es una medida de dispersión alternativa y se calcula como la raíz cuadrada de la varianza. Un punto positivo respecto de la varianza es que tiene las mismas unidades que la variable, lo cual da cierta interpretabilidad.<br>
+<br>
 La expresión matemática en este caso es:<br>
 <img src="https://raw.githubusercontent.com/dh-mumuki/mumuki-guia-text-estadistica-1-estadistica-descriptiva/master/assets/desvio_1541114414775.JPG" alt="desvio_1541114414775.JPG" width="auto" height="auto">
