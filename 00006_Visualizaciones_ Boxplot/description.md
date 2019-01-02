@@ -28,3 +28,6 @@ Ya hemos visto que los límites de la caja vienen dados por los valores del prim
 Los **bigotes** (o **whiskers**, en inglés) son las líneas que se extienden por fuera de la caja. Para definir su largo, debemos **multiplicar al RIC por algún valor** arbitrario, **típicamente** 1,5 (más adelante veremos que este valor tiene estrecha relación con las características propias de la **distribución normal**). Restando y sumando este valor a los valores de los bordes inferior y superior de la caja, respectivamente, obtenemos los límites inferior y superior de nuestro **boxplot**:<br>
 1. Límite inferior = Q1 - 1,5 x RIC
 2. Límite superior = Q3 + 1,5 x RIC
+
+<br>
+Todas las observaciones que queden por fuera de los bigotes serán considerados **casos atípicos** (o **outliers**, en inglés), es decir, aquellos registros que presentan valores muy por encima o por debajo de la mayor parte de nuestros datos. Estas observaciones deberán ser tratadas con especial atención, ya que van a tener suma influencia sobre los cálculos de las medidas de tendencia central y dispersión más frecuentes (¿por qué?). Por otra parte, veremos que los outliers, lejos de representar valores de la realidad, muchas veces son el resultado de errores de registro típicos de cualquier proceso de recolección de datos (ya sea manual o automática).
