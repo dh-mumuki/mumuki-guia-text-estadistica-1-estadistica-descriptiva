@@ -7,4 +7,4 @@ Para una lista ordenada, la mediana se calcula de diferente manera dependiendo d
 * Para distribuciones con una cantidad total de elementos par , la mediana se obtiene calculando el promedio de los valores en las dos posiciones centrales. Si tenemos [2,5,8,10,14,19], la mediana es 9.
 
 <br> 
-:memo: **Cuánto vale la mediana de esta muestra?**
+:memo: **Cuánto vale la mediana de esta muestra: [36, 35, 36, 39.5, 40, 44, 53, 25, 80, 42]?**
