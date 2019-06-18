@@ -6,12 +6,16 @@ type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
-- value: '38'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '38'
   checked: false
-- value: '40.5'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '40.5'
   checked: false
-- value: '42.3'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '42.3'
   checked: false
-- value: '43.5'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '43.5'
   checked: true
 name: Mediana
